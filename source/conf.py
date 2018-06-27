@@ -153,6 +153,3 @@ texinfo_documents = [
      author, 'GISManagerdocs', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-locale_dirs = ['locale/']
-gettext_compact = False
