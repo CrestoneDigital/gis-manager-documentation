@@ -154,5 +154,5 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-
-
+locale_dirs = ['locale/']
+gettext_compact = False
